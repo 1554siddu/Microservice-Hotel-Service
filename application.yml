@@ -1,8 +1,6 @@
 spring:
   application:
     name: ConfigServer
-  profiles: 
-    active:native
 eureka:
   instance:
     prefer-ip-address: true
